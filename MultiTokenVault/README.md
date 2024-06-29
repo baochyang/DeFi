@@ -1,6 +1,6 @@
 # MultiTokenVault
 
-This project enables deposits and withdrawals of multiple ERC20 tokens and ether from the contract.
+This project includes a MultiTokenVault contract that allows for deposits and withdrawals of multiple ERC20 tokens and ether onto the contract.
 
 ### Setup
 ### Install dependencies

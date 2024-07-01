@@ -17,7 +17,7 @@ This project enables staking and earning rewards from staking ERC20 tokens.
 
 3. Contract Owner will set the duration for the staking rewards, e.g. 1200 seconds.
 
-4. Contract Owner will set the rewards per second e.g. 100 reward tokens per second for the StakingRewards contract.
+4. Contract Owner will set the rewards per second e.g. 100 reward tokens per second for the StakingRewards contract. This is done via calling the "notifyRewardAmount" function with the input amount of e.g. 120000 reward tokens
 
 5. Contract Owner will transfer some ERC20 staking tokens to a User.
 

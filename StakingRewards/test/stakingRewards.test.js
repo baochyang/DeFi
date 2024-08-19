@@ -77,7 +77,7 @@ describe("Staking", function () {
                                         .transfer( 
                                           user.address,
                                           ethers.parseUnits("12000", 
-                                              RTContractDecimals_bn) 
+                                              STContractDecimals_bn) 
                                              )
 
     // console.log("transfer_ST_deployer_to_user_tx_response.hash = ", transfer_ST_deployer_to_user_tx_response.hash)
